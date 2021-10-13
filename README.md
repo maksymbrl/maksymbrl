@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there! 👋 I am Maksym 👨‍💻
+</h1>
 
-<!--
-**maksymbrl/maksymbrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I am cosmologist and software developer from Odesa, Ukraine, focusing on Bayesian Data Analysis of Cosmic Microwave Background radiation using High Performance Computing. Currently based in Oslo, Norway.
+ </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%" align="center">
+  <tr>
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maksymbrl&show_icons=true&count_private=true&theme=dracula&hide_border=true" width="525"></a>
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymbrl&layout=compact&theme=dracula&hide_border=true" width="439"/></a>
+  </tr>
+</table>
