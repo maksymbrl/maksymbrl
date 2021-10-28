@@ -8,7 +8,7 @@
 
 <table style="width:100%" align="center">
   <tr>
-    <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=maksymbrl&show_icons=true&count_private=true&theme=dracula&hide_border=true" width="450"></a>
-    <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymbrl&layout=compact&theme=dracula&hide_border=true" width="380"/></a>
+    <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=maksymbrl&show_icons=true&count_private=true&theme=dracula&hide_border=true" width="440"></a>
+    <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymbrl&layout=compact&theme=dracula&hide_border=true" width="370"/></a>
   </tr>
 </table>
